@@ -1,8 +1,8 @@
 ### Hey, I'm Lucas Yuji Yoshimine! 🇧🇷 <img align="center" height="40" width="40" src="https://camo.githubusercontent.com/8ba05c5e73ec14a771cef49ae8e0575dd0243d67f1954789eb98cf27684afc39/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f616e64726f69642d6f732e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/android-os.png" style="max-width:100%;"> <img align="center" height="40" width="40" src="https://camo.githubusercontent.com/abb95214ee75a5c7fecc45716323d943dcd65d25ab14173f2523a3c295c2ce96/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6b6f746c696e2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/kotlin.png" style="max-width:100%;">
 
-- 🤖 Android Developer at [@enjoei](https://www.enjoei.com.br/)
-- 📖 Currently learning Jetpack Compose & KMM (Kotlin Multiplataform Mobile).
-- 💬 If you have any questions please feel free to ask
+- 🤖 - Android Developer at [@enjoei](https://www.enjoei.com.br/)
+- 📖 - Currently learning Jetpack Compose & KMM (Kotlin Multiplataform Mobile).
+- 💬 - If you have any questions please feel free to ask
 
 ## About me
 
