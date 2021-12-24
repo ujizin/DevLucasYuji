@@ -4,7 +4,14 @@
 - 📖 Currently learning Jetpack Compose & KMM (Kotlin Multiplataform Mobile).
 - 💬 If you have any questions please feel free to ask
 
-## About me
+### About me
+
+<div> 
+  <a href="https://beacons.ai/devlucasyuji"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucasyuji&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasyuji&layout=compact&langs_count=16&theme=dark"/> </a>
+</div>
+
+---
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ujizin)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/yuji_yoshimine)
