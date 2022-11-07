@@ -7,8 +7,8 @@
 ### About me
 
 <div> 
-  <a href="https://beacons.ai/devlucasyuji"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlucasyuji&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasyuji&layout=compact&langs_count=16&theme=dark"/> </a>
+  <a href="https://beacons.ai/ujizin"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ujizin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujizin&layout=compact&langs_count=16&theme=dark"/> </a>
 </div>
 
 ---
