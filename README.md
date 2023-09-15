@@ -3,15 +3,20 @@
 - 🤖 Android Developer at [@enjoei](https://www.enjoei.com.br/)
 - 💬 If you have any questions please feel free to ask
 
-### About me
 
+<!--
+### About me
 <div> 
   <a href="https://beacons.ai/ujizin"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ujizin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
+-->
 ---
+
+### Social Network
+
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasyujideveloper)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ujizin)
